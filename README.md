@@ -1,5 +1,4 @@
-# sha256-login-demo
-A web-based login demo demonstrating SHA-256 password hashing and basic authentication workflows.
+
 # SHA-256 Login Security Demo
 
 A web-based login and registration demo built to explore password hashing and basic authentication workflows using SHA-256.
